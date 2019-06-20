@@ -42,6 +42,9 @@
   "proxy": "http://localhost:5555",
   "nodemonConfig": {
     "ext": "js,sql",
-    "ignore": ["src/*", "public/*"]
+    "ignore": [
+      "src/*",
+      "public/*"
+    ]
   }
 }
